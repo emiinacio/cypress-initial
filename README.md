@@ -1,21 +1,21 @@
 
-<<<<<<< HEAD
+
 ## Resumo dos conteúdos:
 
-- como criar um projeto node
-- como adicionar o Cypress ao projeto
-- como criar a estrutura de pastas padrão do Cypress
-- como executar os testes utilizando o Cypress Runner
-- como acessar uma página
-- como mapear elementos utilizando Cypress
-- como utilizar comandos comuns de digitar, clicar, etc.
-- como realizar asserções nos nossos testes
-- como criar comandos customizados para auxiliar no desenvolvimento
-- como fazer requisições para a api
-- como executar testes de forma independente
-- como configurar a aplicação testada para executar localmente
-- como criar um script para subir o Cypress de forma mais organizada
-- como manipular recursos do browser, como o localStorage
+- criar um projeto node
+- adicionar o Cypress ao projeto
+- criar a estrutura de pastas padrão do Cypress
+- executar os testes utilizando o Cypress Runner
+- acessar uma página
+- mapear elementos utilizando Cypress
+- utilizar comandos comuns de digitar, clicar, etc.
+- realizar asserções nos nossos testes
+- criar comandos customizados para auxiliar no desenvolvimento
+- fazer requisições para a api
+- executar testes de forma independente
+- configurar a aplicação testada para executar localmente
+- criar um script para subir o Cypress de forma mais organizada
+- manipular recursos do browser, como o localStorage
 =======
 ## Resumo dos conteúdos a:
 
