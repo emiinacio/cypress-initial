@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 ## Resumo dos conteúdos:
 
 - como criar um projeto node
@@ -15,20 +16,34 @@
 - como configurar a aplicação testada para executar localmente
 - como criar um script para subir o Cypress de forma mais organizada
 - como manipular recursos do browser, como o localStorage
+=======
+## Resumo dos conteúdos a:
+
+- criar um projeto node
+- adicionar o Cypress ao projeto
+- criar a estrutura de pastas padrão do Cypress
+- executar os testes utilizando o Cypress Runner
+- acessar uma página
+- mapear elementos utilizando Cypress
+- utilizar comandos comuns de digitar, clicar, etc.
+- realizar asserções nos nossos testes
+- criar comandos customizados para auxiliar no desenvolvimento
+- fazer requisições para a api
+- executar testes de forma independente
+- configurar a aplicação testada para executar localmente
+- criar um script para subir o Cypress de forma mais organizada
+- manipular recursos do browser, como o localStorage
+>>>>>>> 5292f18 (update)
 - reforçar o padrão de testes independentes
-- como criar seletores dedicados para testes
+- criar seletores dedicados para testes
 - qual problema o page objects se propõe a resolver
-- como criar uma estrutura simples para usar este padrão
-- como separar testes, ações e elementos da página
+- criar uma estrutura simples para usar este padrão
+- separar testes, ações e elementos da página
 
 ------------
 
 # Passo a passo para configurar o projeto
 
-#### Baixe o projeto no Github, de preferência na branch do Vídeo 1:
-- Branch do vídeo 1: `https://github.com/samlucax/youtube-cypress/tree/video1`
-
-#### Instale e suba nossa *cobaia* localmente
 1.Acessar o diretório backend, instalar as dependências e iniciar a api:
   - `cd backend` 
   - depois `npm install`

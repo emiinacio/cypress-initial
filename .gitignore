@@ -1,0 +1,5 @@
+node_modules
+npm-debug.*
+cypress/videos
+# macOS
+.DS_Store
